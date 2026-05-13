@@ -1,0 +1,9 @@
+{
+  "name": "LevantaApp",
+  "description": "Progressive Web App para levantamientos de mobiliario y espacios en campo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
